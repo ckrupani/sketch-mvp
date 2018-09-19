@@ -40,6 +40,18 @@
       "do_objectID": "DFC9DFAC-0B87-4A50-8CD1-444DCCD44B0F",
       "overrideName": "D1624FA9-7B10-430F-9CAE-E3BFE4FA611D_symbolID",
       "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "09319F57-F2D9-4771-8DF2-66A0933356BA",
+      "overrideName": "BB0D3C1B-DEF3-4F03-9872-C113DCB17B69/2B829557-464B-47A5-A1E4-F391F171DE84_symbolID",
+      "value": "53D8A5AE-1BD3-425F-A609-B66661CA89E9"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "84FEEAEC-844E-4AD1-9A70-6A6DF7A6EA28",
+      "overrideName": "12398A05-6793-4659-9281-78641A876BC3_stringValue",
+      "value": "Awesome blurb"
     }
   ],
   "resizingConstraint": 63,
