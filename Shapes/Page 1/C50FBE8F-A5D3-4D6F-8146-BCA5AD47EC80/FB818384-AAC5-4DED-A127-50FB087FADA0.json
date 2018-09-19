@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "FB818384-AAC5-4DED-A127-50FB087FADA0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 394,
+    "width": 800,
+    "x": 112,
+    "y": 187
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Modal dialog / Default large - 800",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A6A2980C-97AD-4B78-BC06-87BE4D01353F",
+      "overrideName": "A0005FE2-37ED-4771-AEF6-C8E76871793C_stringValue",
+      "value": "Review changes"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFC9DFAC-0B87-4A50-8CD1-444DCCD44B0F",
+      "overrideName": "D1624FA9-7B10-430F-9CAE-E3BFE4FA611D_symbolID",
+      "value": ""
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "ABDDF849-0453-4EF8-8BC0-CF005D9409EF",
+  "verticalSpacing": 0
+}
